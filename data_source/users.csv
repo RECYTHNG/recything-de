@@ -1,0 +1,301 @@
+id,name,email,phone_number,point,gender,birth_date,address,badge,created_at,updated_at,deleted_at
+8358,Nadine Simbolon,czulkarnain@example.org,7949012615726451,951,laki-laki,1938-10-04,"Jl. M.T Haryono No. 6
+Kota Administrasi Jakarta Barat, Jawa Barat 19611",silver,2013-11-16 01:36:57,2007-07-02 06:18:18,2024-04-14 15:22:42
+7051,R.M. Setya Firgantoro,cagakprastuti@example.net,8016876408374397,762,laki-laki,1943-01-26,"Jalan Asia Afrika No. 9
+Denpasar, Kalimantan Utara 73668",bronze,1979-12-05 13:55:22,1995-07-15 22:02:28,2024-02-10 05:12:30
+9528,"Banara Prakasa, M.Pd",elisasiregar@example.net,1248169143723347,6,laki-laki,2015-11-06,"Jalan Gardujati No. 387
+Tebingtinggi, KT 03817",platinum,1980-09-04 09:25:43,1984-12-11 17:00:19,2024-02-06 20:01:03
+7516,Soleh Handayani,emaryati@example.com,1236206234342677,828,perempuan,1922-07-13,"Gg. Dr. Djunjunan No. 05
+Kotamobagu, Jawa Barat 87111",bronze,2018-09-26 10:11:49,1998-05-26 21:21:27,2024-04-03 11:23:22
+8163,Yahya Prasasta,limar04@example.net,8780395064734351,208,laki-laki,1928-04-15,"Jl. Jamika No. 804
+Palangkaraya, BA 96072",bronze,1980-12-26 02:11:38,1974-11-06 02:35:56,2024-04-08 09:53:57
+8854,"Drs. Oman Lailasari, S.I.Kom",xmegantara@example.com,1718046009139780,705,laki-laki,1936-02-10,"Gg. Veteran No. 43
+Serang, JA 99020",gold,1993-02-22 15:07:59,2018-02-18 21:48:36,2024-01-25 12:56:03
+9373,"Hasta Utama, M.Kom.",rahmawatiophelia@example.com,8645494527603199,990,perempuan,1960-07-23,"Jalan Kutai No. 148
+Tangerang Selatan, KS 70552",bronze,2020-02-14 07:27:29,2018-09-02 01:40:05,2024-01-26 22:27:14
+9924,"Sutan Teddy Sihotang, S.Psi",yolandaopung@example.net,2057226939391567,181,perempuan,1928-06-14,"Gg. Astana Anyar No. 8
+Tidore Kepulauan, SU 34792",silver,2015-05-23 11:09:32,2017-06-16 13:36:24,2024-05-29 18:43:55
+6985,Titin Jailani,cakrabuana49@example.net,6432909115877336,875,laki-laki,1998-08-30,"Gg. KH Amin Jasuta No. 57
+Manado, BT 36624",platinum,2003-03-08 05:14:29,1980-07-18 18:05:22,2024-03-04 03:26:28
+8709,Halima Saragih,pradiptaleo@example.net,6586211231570336,240,laki-laki,2017-04-06,"Jl. M.T Haryono No. 0
+Banda Aceh, Bali 78180",gold,2001-11-15 13:18:50,1993-10-11 23:13:23,2024-03-07 22:17:04
+3941,Kamidin Haryanto,jumadipalastri@example.org,7001980620240699,936,perempuan,1913-03-05,"Jalan Pelajar Pejuang No. 180
+Kota Administrasi Jakarta Selatan, Kepulauan Riau 44841",platinum,1974-11-11 16:18:14,1981-02-07 18:44:40,2024-02-26 11:15:23
+260,Shania Simbolon,pranowoheru@example.org,5957680523925110,171,perempuan,2000-05-09,"Jalan Erlangga No. 79
+Solok, Jambi 23573",gold,1980-01-29 17:53:27,1997-07-07 00:10:46,2024-02-10 21:09:39
+9582,"Kamila Siregar, S.I.Kom",kuswoyojindra@example.org,6817835049235942,996,laki-laki,1934-02-10,"Gg. Surapati No. 9
+Solok, Nusa Tenggara Barat 17913",silver,2019-05-01 10:54:19,1970-10-23 12:20:11,2024-05-24 10:04:04
+3898,"dr. Abyasa Puspita, S.E.",dwijaya@example.com,7863116449770513,627,laki-laki,1924-11-24,"Gang Cempaka No. 385
+Cilegon, JK 27426",platinum,2013-05-19 09:09:48,1997-07-24 19:03:11,2024-02-16 22:15:27
+1527,"Oni Nugroho, S.Psi",malika00@example.net,5712495161101758,110,perempuan,2006-04-03,"Jalan BKR No. 1
+Prabumulih, SG 80424",platinum,1972-08-05 07:40:31,2015-09-22 01:46:10,2024-04-19 00:05:41
+6384,"Zahra Palastri, S.E.",uyainahdarimin@example.com,5259089333242050,744,laki-laki,1949-03-21,"Jalan Tubagus Ismail No. 584
+Tangerang Selatan, PB 08034",platinum,2004-10-16 15:02:11,1976-01-20 12:07:15,2024-04-25 22:16:56
+7291,Sadina Sinaga,cutama@example.com,7174274389894075,461,perempuan,1953-12-22,"Jalan Raya Ujungberung No. 1
+Bitung, KS 91150",gold,1995-04-30 19:00:46,1987-11-15 15:57:58,2024-03-25 16:19:22
+2033,Intan Januar,prasetyoulya@example.org,5192547905138146,384,laki-laki,1937-10-27,"Jalan Astana Anyar No. 808
+Prabumulih, RI 70188",silver,2003-05-11 18:01:58,1986-08-27 23:37:00,2024-02-21 10:32:50
+899,Elvina Rahayu,qmahendra@example.net,8909481834820379,751,laki-laki,2004-02-08,"Gang Sukabumi No. 04
+Banjarbaru, DI Yogyakarta 51032",platinum,1971-11-26 10:49:32,1970-02-15 14:32:42,2024-03-20 10:37:34
+7488,Arsipatra Mandasari,asirwadanugroho@example.com,1882851299143577,542,perempuan,2011-10-14,"Jalan Wonoayu No. 437
+Tarakan, DI Yogyakarta 49045",gold,1985-08-09 23:14:57,1985-06-08 12:57:06,2024-01-13 03:38:40
+6880,Tantri Widodo,usadamakuta@example.net,8884990693129215,335,perempuan,1974-01-15,"Jl. Cempaka No. 39
+Langsa, SS 17944",platinum,1979-12-08 08:27:44,2013-04-26 16:08:40,2024-02-27 19:55:30
+7626,Alika Uwais,unashiruddin@example.com,1295649198865316,321,perempuan,1976-12-31,"Gg. Antapani Lama No. 48
+Padangpanjang, Kalimantan Barat 51619",bronze,2008-04-07 10:47:06,2007-11-27 18:25:28,2024-01-31 03:29:48
+1464,Lasmono Hastuti,gasti41@example.org,5623858975596107,344,perempuan,1936-10-13,"Gg. Rumah Sakit No. 9
+Sorong, Aceh 16139",bronze,1999-07-10 10:57:36,1981-05-30 17:14:42,2024-02-23 17:31:29
+6713,"Aurora Mardhiyah, S.IP",iprayoga@example.com,4365301134704686,895,laki-laki,1908-12-05,"Gg. Suryakencana No. 90
+Kota Administrasi Jakarta Timur, Kepulauan Bangka Belitung 69464",platinum,1997-05-19 05:03:19,1972-11-20 07:51:34,2024-03-22 19:33:14
+8179,Wirda Saefullah,marpaungjoko@example.net,4310221104777907,154,perempuan,1968-01-06,"Jalan M.H Thamrin No. 9
+Kendari, Sumatera Utara 02896",silver,2016-05-29 20:39:37,1974-07-19 04:45:51,2024-03-02 10:19:30
+9021,Kamidin Lazuardi,jaiman68@example.com,5397572948244008,746,perempuan,2007-02-21,"Jalan K.H. Wahid Hasyim No. 1
+Denpasar, Bengkulu 24301",platinum,1977-06-30 16:32:50,2024-02-13 10:19:01,2024-03-03 22:25:22
+3669,Amelia Hariyah,lkuswandari@example.net,8502987647462992,436,perempuan,1992-06-12,"Gg. Cikutra Timur No. 33
+Solok, Lampung 44561",gold,2023-04-02 08:56:29,2019-08-27 18:36:31,2024-05-14 19:31:03
+4801,Galang Wahyudin,bkurniawan@example.net,1463114008384609,351,perempuan,1939-04-26,"Jl. Sukajadi No. 066
+Langsa, Nusa Tenggara Timur 52515",bronze,2007-06-13 07:02:00,1999-08-10 21:27:33,2024-04-08 19:28:29
+4134,Ajimin Kusumo,snatsir@example.org,9865923008402432,517,perempuan,1965-01-11,"Gg. KH Amin Jasuta No. 52
+Solok, SN 61698",gold,2020-03-28 19:04:52,1986-10-10 12:36:29,2024-04-20 16:13:54
+8262,"drg. Ella Laksita, M.Ak",khastuti@example.com,1085007061647248,14,perempuan,1953-07-12,"Gang Jakarta No. 46
+Magelang, SR 19281",platinum,2009-09-28 11:49:09,1971-09-08 04:05:42,2024-03-05 18:45:49
+4083,Nadia Narpati,wasisrajasa@example.net,2445565738079616,808,perempuan,1976-08-10,"Gg. Soekarno Hatta No. 531
+Banjar, Jawa Tengah 05387",bronze,2016-04-15 04:02:32,1992-08-23 09:44:14,2024-04-04 05:03:34
+6164,"Simon Haryanto, S.Ked",narjisihombing@example.org,1629970514146334,872,laki-laki,1995-02-03,"Gang Pelajar Pejuang No. 75
+Kendari, PB 69606",silver,1987-04-19 02:33:42,1986-10-28 02:03:06,2024-06-01 00:00:24
+431,Ilsa Oktaviani,ehariyah@example.org,6897600645654161,258,laki-laki,1914-06-18,"Gang Siliwangi No. 13
+Banjarbaru, Kepulauan Bangka Belitung 64396",bronze,1973-09-10 10:57:24,2022-12-01 03:53:33,2024-02-09 15:34:38
+3508,Dwi Oktaviani,kasim58@example.org,9486113318961907,841,laki-laki,2009-07-04,"Jalan Rajawali Barat No. 45
+Padang, MA 40053",gold,2010-01-14 10:11:48,1992-04-19 18:26:45,2024-04-22 04:04:41
+7680,Iriana Permadi,jagaragamandasari@example.org,9092439860960755,308,laki-laki,1963-03-28,"Jalan Ir. H. Djuanda No. 840
+Pekanbaru, JI 82994",bronze,1970-10-25 20:19:15,2003-06-25 15:56:33,2024-03-18 13:11:28
+61,"Diah Thamrin, S.E.I",saptonomarwata@example.net,9539867551343743,950,laki-laki,1934-04-16,"Jalan Ir. H. Djuanda No. 14
+Banda Aceh, Riau 43679",silver,1995-07-19 08:31:08,1989-10-31 06:50:15,2024-01-25 08:50:08
+1772,"Pangestu Tarihoran, M.Pd",michellenasyidah@example.net,3480067180590140,839,perempuan,1980-07-06,"Gang Peta No. 4
+Sibolga, BT 09233",gold,1996-11-26 02:08:50,1975-05-31 16:15:50,2024-04-10 03:11:15
+409,Cut Hamima Prayoga,halimaherik@example.net,9112604447354457,927,perempuan,1987-08-09,"Gg. HOS. Cokroaminoto No. 353
+Kota Administrasi Jakarta Timur, KU 81174",gold,1989-08-30 16:27:33,1996-02-11 23:45:53,2024-05-17 15:38:50
+6818,Drs. Caket Narpati,kenarithamrin@example.org,3333889777087919,849,perempuan,1911-08-01,"Gg. Moch. Toha No. 8
+Pontianak, JI 45363",silver,1999-05-12 23:09:23,1985-11-22 01:40:24,2024-02-08 21:58:59
+1942,Adiarja Puspita,napitupulusalimah@example.net,1451814930831058,934,perempuan,1920-07-05,"Gg. Rajawali Timur No. 46
+Batam, Kalimantan Tengah 52790",gold,2003-06-07 12:17:52,1982-05-24 04:35:46,2024-05-19 23:22:32
+5100,Puti Ida Marbun,qwijayanti@example.com,6595582320186269,469,perempuan,1920-09-30,"Gang Jakarta No. 79
+Bekasi, JI 95933",silver,2006-10-30 01:27:05,1994-02-15 15:18:06,2024-03-01 03:35:22
+7689,Yance Nurdiyanti,vwaskita@example.org,2176682214606534,900,laki-laki,2013-04-14,"Jalan Ciumbuleuit No. 8
+Singkawang, NB 48936",bronze,2010-03-17 16:31:53,2002-07-05 09:14:52,2024-01-04 21:55:11
+2969,Maryanto Hidayat,waluyokacung@example.org,3423299321812848,131,laki-laki,1932-11-26,"Gg. Rungkut Industri No. 5
+Kota Administrasi Jakarta Utara, MU 41593",silver,2024-05-10 21:13:43,1989-07-18 11:44:49,2024-04-02 17:57:03
+1744,Ellis Nugroho,zulaikacawuk@example.net,2287189179421968,214,perempuan,2015-08-12,"Gg. Ahmad Yani No. 476
+Manado, KI 82783",bronze,2002-06-10 09:10:06,2022-07-30 18:40:38,2024-01-27 14:32:02
+5902,Raharja Natsir,hagustina@example.net,1721734465792530,24,perempuan,1992-02-28,"Jl. Gegerkalong Hilir No. 6
+Banjar, Gorontalo 50618",silver,1979-02-11 02:18:47,1990-10-13 07:50:36,2024-01-16 22:11:58
+9443,"Eja Gunarto, S.Kom",tsafitri@example.net,6001813092527465,992,laki-laki,1972-08-10,"Gang Rumah Sakit No. 500
+Malang, Sumatera Selatan 96431",gold,2016-01-13 14:34:22,1985-12-25 17:21:59,2024-01-21 13:45:26
+5745,Digdaya Nainggolan,hsafitri@example.net,5100513612170462,253,perempuan,2012-11-08,"Jalan Pasir Koja No. 097
+Palembang, NT 38459",bronze,1980-02-25 11:34:06,2019-09-01 11:19:58,2024-03-13 22:13:49
+7041,Kemal Kuswoyo,luthfi28@example.org,1552704527627501,795,perempuan,1931-12-04,"Jl. Abdul Muis No. 07
+Blitar, Banten 86893",bronze,2001-06-24 21:36:59,2024-01-28 12:31:13,2024-03-14 04:49:40
+2429,Rachel Suartini,lilihutagalung@example.org,4553925071042529,935,perempuan,1939-03-15,"Gg. K.H. Wahid Hasyim No. 235
+Tual, KI 34071",gold,1992-06-11 06:21:37,1989-08-12 12:21:34,2024-01-24 20:00:16
+5961,Baktiadi Tarihoran,safitriismail@example.net,6074097937470833,131,perempuan,1979-09-28,"Jl. Suniaraja No. 50
+Balikpapan, DI Yogyakarta 14092",platinum,1999-02-21 03:24:48,2013-11-15 13:14:21,2024-05-18 05:04:48
+8171,Tedi Pratiwi,waskitanadine@example.net,4295723903136946,292,laki-laki,2004-12-17,"Jl. Pacuan Kuda No. 926
+Pontianak, Gorontalo 85961",gold,1977-05-04 11:38:02,1989-04-13 17:59:31,2024-04-19 15:59:00
+3606,dr. Ika Pudjiastuti,sadina70@example.org,5634422334785074,294,laki-laki,1934-04-23,"Gg. Lembong No. 2
+Tangerang, BE 36086",bronze,1994-07-14 17:09:33,1999-10-28 13:47:35,2024-02-02 12:33:05
+3301,Febi Hariyah,mutia53@example.com,7442994469090176,908,perempuan,1937-07-17,"Gang Moch. Ramdan No. 7
+Tegal, DI Yogyakarta 66555",gold,1978-03-12 03:10:25,2010-05-04 10:32:51,2024-01-28 20:37:56
+8065,"Icha Widodo, S.Psi",kurnia44@example.net,6226859157948114,794,laki-laki,1993-10-20,"Jl. Yos Sudarso No. 58
+Purwokerto, SR 24325",platinum,2011-09-28 04:04:47,2013-11-27 07:05:00,2024-01-29 23:47:03
+1588,Atmaja Gunawan,mahesasusanti@example.com,3302301651334280,806,laki-laki,1939-08-12,"Jalan Setiabudhi No. 5
+Tegal, JT 54895",silver,1977-07-13 11:27:06,2000-03-17 02:53:35,2024-04-08 01:33:34
+973,"R.M. Jagaraga Damanik, S.T.",susantigina@example.net,7327136742824719,107,laki-laki,1964-03-08,"Jl. Ronggowarsito No. 01
+Gorontalo, Sulawesi Selatan 54365",platinum,1971-02-16 06:22:35,1990-09-29 03:37:54,2024-01-24 21:11:32
+4206,drg. Cakrabuana Megantara,nasyiahhardana@example.net,3729179167577249,645,laki-laki,1990-07-16,"Gg. Tebet Barat Dalam No. 78
+Cirebon, BB 07727",silver,2012-09-14 10:36:32,1984-07-13 00:45:17,2024-04-20 09:51:33
+722,Dr. Yulia Hartati,rthamrin@example.org,1535346342843993,964,perempuan,1921-12-10,"Gang Ahmad Yani No. 2
+Parepare, Aceh 29672",gold,1989-03-02 17:13:49,2010-05-17 08:02:53,2024-04-05 11:12:35
+9450,"Drs. Ratih Aryani, S.Sos",rpangestu@example.com,7518689344480236,514,perempuan,1988-05-03,"Gg. KH Amin Jasuta No. 4
+Kota Administrasi Jakarta Timur, YO 38953",gold,2011-02-08 10:16:00,2001-10-18 05:43:06,2024-04-05 10:15:20
+450,Tgk. Maria Pudjiastuti,amandala@example.org,3935163686478961,842,laki-laki,1978-10-18,"Jl. Kapten Muslihat No. 6
+Banjarmasin, Banten 19218",platinum,1973-09-16 21:08:05,2018-01-28 17:49:58,2024-04-22 18:10:13
+5578,Opan Safitri,melanisiti@example.org,8229329500595681,750,perempuan,1978-08-18,"Gg. Yos Sudarso No. 9
+Sabang, Bengkulu 69151",gold,1971-08-10 15:19:37,2003-05-29 08:10:22,2024-05-10 17:11:19
+954,Novi Rahmawati,gentapurwanti@example.org,2386890997536407,425,laki-laki,1932-03-06,"Jalan Tubagus Ismail No. 35
+Banda Aceh, KB 11107",silver,2016-12-21 13:09:01,1978-03-20 14:52:55,2024-04-13 01:20:07
+6116,Manah Riyanti,wpuspita@example.org,1863548770300431,202,perempuan,1966-05-16,"Gg. Jend. A. Yani No. 869
+Kota Administrasi Jakarta Selatan, SU 36139",silver,1970-06-20 18:16:02,1988-05-07 15:46:55,2024-01-16 14:50:43
+2920,Kayla Novitasari,cinthiatampubolon@example.com,5623334706793101,883,laki-laki,1997-06-06,"Jalan Cikutra Barat No. 617
+Kota Administrasi Jakarta Selatan, Maluku 92078",silver,2012-08-10 04:58:44,1982-12-21 03:47:34,2024-02-12 12:11:20
+7065,Cakrabuana Maulana,mutia53@example.com,6366347105742826,901,laki-laki,1943-10-23,"Jl. Rajawali Timur No. 861
+Probolinggo, Sulawesi Barat 81803",platinum,1997-11-15 12:18:14,1978-08-13 18:43:14,2024-05-04 06:55:54
+7673,Cinta Wibisono,wulandarirachel@example.com,1549611804963681,955,laki-laki,1951-09-19,"Jalan Sadang Serang No. 2
+Tomohon, Jambi 00149",gold,2014-03-10 19:17:19,2005-02-25 06:49:07,2024-03-24 19:10:23
+6957,Argono Pranowo,arahimah@example.org,7748716401320452,316,perempuan,1923-07-01,"Jl. Moch. Toha No. 167
+Depok, KU 73997",gold,1996-11-12 01:58:54,1972-09-29 12:28:48,2024-01-11 14:02:48
+4241,Lembah Prayoga,maheswarahana@example.org,9788703582357063,314,laki-laki,1966-11-05,"Gg. Rajiman No. 1
+Langsa, Maluku Utara 17132",silver,2021-09-21 16:33:59,2010-10-18 21:54:17,2024-01-29 13:15:29
+5025,Ir. Aisyah Wibowo,ahidayanto@example.net,7784826710179259,619,laki-laki,1955-06-12,"Gg. Rawamangun No. 3
+Denpasar, Bengkulu 89910",gold,2021-04-06 19:08:36,1998-03-15 10:47:30,2024-01-31 05:27:46
+2813,Dodo Mandala,irianahartati@example.com,4945746559511164,978,perempuan,2006-06-17,"Jl. Asia Afrika No. 73
+Palembang, Kepulauan Riau 05828",bronze,1997-09-16 13:26:49,1989-10-29 02:20:10,2024-04-30 16:07:21
+6144,"Laswi Tampubolon, S.I.Kom",mustofagara@example.net,4264652394896760,505,perempuan,2000-09-01,"Jl. M.H Thamrin No. 75
+Kota Administrasi Jakarta Timur, Kalimantan Utara 55743",silver,2019-01-26 00:52:03,1993-08-20 16:18:51,2024-03-26 15:19:36
+3130,Dian Rajasa,zulkarnainprasetyo@example.org,4573885830158023,993,perempuan,1982-02-13,"Jalan Bangka Raya No. 31
+Pariaman, Nusa Tenggara Timur 81907",silver,1984-08-23 09:20:37,1977-11-02 01:36:35,2024-02-27 23:17:52
+8768,Amelia Damanik,ikhsanutami@example.com,1357533285432922,866,laki-laki,1935-03-27,"Gang Kutisari Selatan No. 5
+Kota Administrasi Jakarta Utara, MU 95619",silver,2020-12-10 09:00:06,1975-09-09 18:34:19,2024-05-09 12:33:23
+3487,Vino Maulana,mangunsongkarta@example.net,7039127041423594,275,laki-laki,1921-12-08,"Gg. Peta No. 65
+Prabumulih, Lampung 57481",gold,2004-02-20 15:53:06,2000-03-29 20:44:07,2024-05-26 04:34:12
+6219,"Opan Haryanto, S.Kom",wijayaamong@example.com,7191825280110961,47,perempuan,1958-11-29,"Gg. Tubagus Ismail No. 87
+Semarang, SU 18756",bronze,1991-11-24 07:09:02,1979-05-10 00:26:29,2024-04-27 11:31:54
+3593,Ir. Ghaliyati Lailasari,dabukkenyana@example.com,9804515883767957,317,laki-laki,1995-05-05,"Jl. Otto Iskandardinata No. 4
+Bogor, KR 07966",platinum,1980-09-10 01:34:53,2008-06-21 03:23:55,2024-01-19 12:33:54
+2859,"Sutan Wahyu Prasetya, S.E.",betania16@example.com,7983124954393469,72,perempuan,1982-07-16,"Gang Kendalsari No. 7
+Balikpapan, BA 90800",platinum,1991-09-14 08:31:57,1997-09-20 06:15:46,2024-05-02 01:37:38
+1270,Dr. Mulyanto Hardiansyah,dewiwijaya@example.net,6867764738919599,175,laki-laki,1949-10-20,"Gg. H.J Maemunah No. 70
+Padangpanjang, Jawa Tengah 69227",bronze,1977-08-13 13:50:19,2017-06-02 04:44:23,2024-05-09 14:10:23
+1495,Dt. Caket Oktaviani,ksuryono@example.com,1323836367931723,47,perempuan,2014-11-04,"Gg. Ciumbuleuit No. 5
+Kendari, Jawa Barat 37515",silver,1997-07-05 16:51:54,2009-03-07 11:39:49,2024-02-21 20:25:50
+6250,Jumadi Pangestu,amongzulkarnain@example.com,3445861935290088,617,perempuan,1993-03-14,"Gang Dr. Djunjunan No. 7
+Batu, KB 43102",silver,1977-06-08 08:20:16,2017-12-01 03:01:43,2024-03-18 12:08:05
+2482,"Elisa Sitorus, S.Ked",adikara82@example.org,2858994501759270,108,laki-laki,1971-10-04,"Jalan BKR No. 9
+Padang, PB 04892",gold,1991-06-12 23:19:56,2013-06-21 22:33:44,2024-04-24 09:47:11
+2647,Baktiadi Yolanda,darijan16@example.com,7404269133525445,179,perempuan,1943-12-21,"Jalan Jend. A. Yani No. 94
+Kendari, MU 24516",platinum,2019-10-21 19:24:40,1984-12-26 20:49:26,2024-04-26 09:08:08
+9806,"Oni Prayoga, M.Pd",parmannamaga@example.com,7433953963941116,521,laki-laki,1981-01-12,"Gang H.J Maemunah No. 0
+Semarang, GO 33710",silver,1983-11-02 22:55:23,1997-10-10 10:48:26,2024-05-20 12:12:59
+3220,Gamanto Salahudin,ofujiati@example.org,1545507002974377,967,perempuan,1929-06-13,"Gg. Sadang Serang No. 978
+Batu, BB 43754",platinum,1986-08-25 04:10:55,1982-03-30 15:24:11,2024-02-08 19:10:33
+5032,"Drs. Eja Usada, S.I.Kom",vmulyani@example.net,9791606733622512,597,perempuan,1998-07-04,"Gang Waringin No. 450
+Sawahlunto, Sulawesi Utara 24190",bronze,1970-12-16 18:27:16,2005-01-25 23:52:32,2024-01-27 22:06:20
+4214,"R. Zulfa Prastuti, S.IP",jnainggolan@example.net,4748990679116027,371,perempuan,1914-12-06,"Gg. Moch. Ramdan No. 7
+Bontang, SR 76528",silver,1972-12-19 08:40:43,2018-04-13 02:38:38,2024-01-29 18:33:26
+5982,"Tina Gunarto, S.H.",luhung49@example.org,9026711677231234,755,laki-laki,1985-02-09,"Jl. Gardujati No. 5
+Madiun, JB 85261",silver,2009-11-12 21:50:21,1999-09-22 17:06:22,2024-03-31 21:04:17
+84,Prayogo Agustina,oyuliarti@example.com,4276943147350248,359,perempuan,1996-09-25,"Gang Wonoayu No. 32
+Padang Sidempuan, Maluku Utara 99077",bronze,2009-04-20 12:16:39,2011-11-18 19:46:12,2024-04-12 03:01:23
+8928,R.M. Atmaja Astuti,dabukkehendri@example.net,4753638267751788,723,laki-laki,1973-03-19,"Gang Ronggowarsito No. 5
+Metro, Papua 77420",gold,1970-10-17 06:04:21,2022-02-03 00:07:25,2024-05-17 05:26:46
+4730,Latika Sihombing,yjanuar@example.net,5656004785540638,537,perempuan,1926-11-24,"Jalan Moch. Ramdan No. 14
+Lhokseumawe, Gorontalo 81285",bronze,1982-06-17 07:04:54,2006-07-11 13:44:17,2024-03-15 18:50:37
+7982,"Drs. Kezia Hutasoit, S.IP",heruyuniar@example.net,1098367370339017,303,perempuan,1965-08-12,"Gang Suniaraja No. 37
+Jayapura, Riau 66563",silver,1981-04-10 23:01:03,2011-10-04 03:01:39,2024-03-23 03:18:38
+5565,Dacin Namaga,gabriellawahyuni@example.com,1433689502714748,430,perempuan,1970-07-01,"Jl. Kebonjati No. 69
+Kupang, NT 52087",bronze,1976-09-13 06:07:57,1982-11-28 13:10:57,2024-03-27 05:40:57
+3810,Karsa Setiawan,haryantojasmin@example.net,9411856525148644,475,laki-laki,1978-08-05,"Gang Sukajadi No. 194
+Banda Aceh, YO 02796",bronze,2006-01-23 14:57:58,1976-03-15 15:13:20,2024-05-03 00:49:59
+6943,Tgk. Raharja Dabukke,ulva18@example.net,1901218315020900,170,laki-laki,1929-06-21,"Gg. Siliwangi No. 782
+Cimahi, SG 20177",bronze,2004-01-01 19:09:11,2011-04-06 11:17:48,2024-05-07 16:17:10
+7399,"Farah Winarsih, S.Kom",saragihparman@example.net,1656854698326264,632,laki-laki,2007-11-17,"Gang Moch. Toha No. 05
+Bukittinggi, Kepulauan Riau 73030",platinum,2020-11-08 11:05:30,1981-04-22 06:28:40,2024-02-28 11:38:49
+9260,"Ir. Elon Sihombing, S.Kom",nainggolangatot@example.net,2018931883023426,876,laki-laki,2001-09-13,"Gang Joyoboyo No. 3
+Semarang, KI 12514",bronze,2015-05-30 14:10:28,1988-07-13 03:08:57,2024-02-29 20:49:48
+6732,Dariati Farida,agus52@example.com,5825953127155790,882,laki-laki,1933-03-02,"Gang Kiaracondong No. 15
+Samarinda, SU 60114",silver,1998-04-25 10:07:39,2006-01-11 14:05:13,2024-05-03 12:48:52
+8943,Rini Sitorus,uwibowo@example.net,2892435035437593,616,perempuan,2018-09-20,"Jalan PHH. Mustofa No. 056
+Bukittinggi, Banten 45478",platinum,1988-09-24 03:07:19,2014-06-07 22:23:22,2024-01-07 00:01:05
+2080,Irma Najmudin,wsuryatmi@example.org,8705165970824077,458,perempuan,1978-04-08,"Jalan Gedebage Selatan No. 781
+Mojokerto, Sulawesi Tenggara 26799",silver,2023-05-10 14:51:40,1983-01-16 17:15:29,2024-05-09 04:22:12
+6965,Ibun Sihotang,mahendralukita@example.net,5526294052655076,323,perempuan,1909-04-24,"Gg. Pasteur No. 297
+Kota Administrasi Jakarta Timur, Sulawesi Barat 21112",silver,2024-04-28 23:06:55,1972-02-17 16:07:08,2024-04-12 06:11:19
+5716,Mahesa Saptono,alika76@example.com,4329233361980666,4,laki-laki,1987-10-16,"Jl. Asia Afrika No. 58
+Binjai, Nusa Tenggara Barat 57498",silver,2013-09-14 14:51:54,1999-05-14 10:07:29,2024-02-13 12:38:43
+115,Cut Jane Permata,kalimsitompul@example.net,6550225252370100,51,laki-laki,1923-09-23,"Jl. Rumah Sakit No. 3
+Manado, Nusa Tenggara Barat 74116",platinum,2005-03-23 00:56:13,1979-07-24 23:51:10,2024-04-02 10:17:02
+3905,"Dr. Cayadi Tamba, S.IP",dmaulana@example.com,3992212503358124,119,laki-laki,2010-01-27,"Jalan Pasir Koja No. 922
+Padang Sidempuan, Jambi 79507",gold,1983-05-22 07:04:31,1977-10-23 05:41:04,2024-05-23 03:57:05
+1566,Samiah Dabukke,nprasasta@example.net,5288043122638212,341,perempuan,1923-03-08,"Gang Moch. Ramdan No. 9
+Prabumulih, Jawa Timur 65654",bronze,1999-11-18 17:45:10,2016-04-19 18:02:28,2024-04-12 23:26:00
+2008,"Malika Marpaung, S.Psi",jaimanbudiyanto@example.net,3127508138536156,200,perempuan,2022-05-31,"Gang Stasiun Wonokromo No. 210
+Subulussalam, Kalimantan Utara 81812",silver,1986-10-31 04:51:30,1975-01-29 04:28:39,2024-02-08 23:17:17
+599,"Jindra Firmansyah, S.Kom",cnashiruddin@example.org,1936773957353891,486,laki-laki,2023-06-23,"Jalan Astana Anyar No. 83
+Solok, Sulawesi Tengah 14487",bronze,1984-02-06 19:30:24,2013-09-11 00:13:59,2024-01-08 03:36:42
+6907,Jamal Palastri,agusyuniar@example.net,6863836072506459,453,laki-laki,1965-10-23,"Gg. Dr. Djunjunan No. 01
+Palu, ST 27985",silver,2024-05-12 08:33:45,2004-07-17 07:41:43,2024-05-28 17:31:11
+8395,Budi Dabukke,fpertiwi@example.net,2900935970665564,26,laki-laki,1963-03-24,"Jalan Yos Sudarso No. 2
+Bima, KB 20342",gold,1995-10-12 06:24:50,1976-02-03 11:43:37,2024-03-13 22:12:52
+4873,drg. Gantar Sitompul,novaprayoga@example.org,4319913335004594,18,perempuan,2005-10-08,"Gang Veteran No. 691
+Bengkulu, NB 33002",bronze,2018-12-05 00:20:35,2015-03-06 02:57:53,2024-03-03 19:32:43
+5397,Yahya Oktaviani,sprabowo@example.org,6748673198871823,923,laki-laki,1977-10-11,"Jl. Lembong No. 2
+Padang Sidempuan, PB 09734",gold,1992-03-13 08:37:45,1981-12-04 00:53:09,2024-04-17 06:45:45
+4945,Erik Hariyah,wpangestu@example.com,7721224012650080,179,laki-laki,1997-08-22,"Gang Cikapayang No. 13
+Manado, Kalimantan Utara 14392",platinum,2012-05-10 03:09:34,2010-03-23 09:50:39,2024-05-08 12:51:31
+3897,Luhung Oktaviani,wulan65@example.org,5230359202058745,200,laki-laki,1913-08-20,"Gang Suniaraja No. 1
+Prabumulih, NT 59496",silver,1994-04-29 04:17:29,1979-11-10 16:36:42,2024-05-22 14:59:38
+1256,Lanjar Hidayanto,pujihalim@example.org,5044035459164419,587,perempuan,2012-02-11,"Jl. Raya Setiabudhi No. 71
+Tangerang Selatan, MA 84437",silver,1987-02-27 10:14:45,2004-02-24 16:38:11,2024-04-10 19:21:26
+7272,Dr. Jane Permadi,jailanihimawan@example.net,9318015573133717,296,perempuan,1925-05-22,"Jalan Raya Ujungberung No. 475
+Denpasar, BE 71820",gold,2021-01-08 20:36:43,1998-07-21 05:11:13,2024-01-28 04:28:57
+4697,Dimaz Maryati,ywidodo@example.com,8970994912561349,197,perempuan,2001-06-27,"Jl. Merdeka No. 259
+Yogyakarta, Jawa Barat 48538",silver,2003-03-12 09:38:46,1979-01-27 10:10:41,2024-02-27 10:53:46
+4083,"Sutan Garda Marbun, S.Farm",jpuspasari@example.org,5448321399615050,243,laki-laki,1995-12-05,"Gang Pasirkoja No. 489
+Ambon, Gorontalo 87366",bronze,2020-04-08 02:48:03,1993-03-11 12:57:59,2024-02-26 19:46:14
+2776,Dinda Sinaga,jelitasihotang@example.com,7552516789560935,447,perempuan,2001-05-18,"Jl. Gegerkalong Hilir No. 492
+Depok, Gorontalo 26420",bronze,1996-06-15 06:36:29,2018-02-08 12:55:07,2024-04-11 20:51:52
+3280,"Yusuf Ardianto, S.Kom",leofirmansyah@example.com,4528552696447156,123,perempuan,1933-01-25,"Gg. Moch. Ramdan No. 67
+Ternate, NT 06384",platinum,1999-10-15 08:48:16,2012-02-19 12:50:35,2024-04-03 13:04:12
+7148,"Hasna Napitupulu, S.Ked",spermadi@example.com,8221716918119754,416,laki-laki,1909-11-29,"Jl. Ahmad Yani No. 39
+Tomohon, BA 61884",bronze,1974-03-23 11:39:35,1988-12-23 16:52:51,2024-05-22 09:37:20
+1543,"Lintang Melani, S.Kom",zsitompul@example.org,7730964573713260,618,perempuan,1919-08-31,"Gg. Asia Afrika No. 82
+Ternate, Maluku Utara 29738",gold,2011-04-01 14:59:37,1983-09-19 15:17:22,2024-02-19 07:02:30
+4745,dr. Jail Nugroho,rahmi96@example.net,3889446921870031,645,laki-laki,1974-05-03,"Gang Moch. Ramdan No. 006
+Sabang, Aceh 85668",platinum,1971-04-10 03:16:24,1976-05-19 22:19:49,2024-03-12 12:15:58
+8768,"Hendri Kusumo, M.Ak",sutama@example.org,3596936435445297,437,perempuan,1999-06-20,"Jl. Kendalsari No. 0
+Probolinggo, Aceh 46841",gold,2007-03-28 20:52:12,1976-03-15 05:31:31,2024-03-05 18:22:11
+4867,Ir. Niyaga Laksita,onajmudin@example.net,4813003200580204,18,laki-laki,1964-03-12,"Jl. Raya Setiabudhi No. 0
+Bogor, PA 57722",silver,1988-04-03 22:28:27,1990-01-14 02:17:59,2024-03-19 12:43:49
+2190,Diah Hardiansyah,bpratama@example.net,6410209870245714,955,laki-laki,2015-11-19,"Jl. W.R. Supratman No. 5
+Semarang, Jawa Barat 58535",gold,1981-05-13 23:50:49,2011-08-22 09:09:56,2024-04-16 05:46:34
+5336,Ilsa Anggriawan,eprakasa@example.com,7869140557363630,378,perempuan,1992-10-29,"Jalan Wonoayu No. 94
+Tomohon, Kalimantan Selatan 49424",silver,1998-05-26 12:38:01,1997-01-31 08:21:34,2024-03-31 18:57:08
+4949,Waluyo Saptono,xwibisono@example.com,9211791225500780,326,laki-laki,1997-07-31,"Gang Sentot Alibasa No. 6
+Kota Administrasi Jakarta Pusat, NB 85108",platinum,2016-10-09 00:00:06,2021-01-30 08:07:24,2024-04-05 19:16:42
+6927,"Victoria Astuti, S.Psi",zmardhiyah@example.com,9493303720930620,824,perempuan,1990-12-19,"Gang Dipenogoro No. 78
+Bau-Bau, Jawa Barat 36576",silver,1982-09-28 08:54:40,1994-08-24 08:19:51,2024-05-03 08:46:19
+9082,drg. Hari Rajata,egawinarno@example.com,4872123718790386,853,laki-laki,1984-09-24,"Gang Dipenogoro No. 023
+Tomohon, KT 34062",silver,2016-06-26 13:39:36,2007-12-14 23:30:40,2024-04-13 12:15:02
+7432,Aslijan Najmudin,hendrasitumorang@example.org,4547293446605450,535,perempuan,1955-09-05,"Gg. Sadang Serang No. 0
+Meulaboh, JK 34850",platinum,2019-06-20 07:05:39,2022-03-23 04:23:37,2024-01-13 13:37:53
+7320,Simon Gunarto,janet73@example.net,5980832162860117,995,perempuan,1986-09-18,"Jl. Jayawijaya No. 3
+Bontang, Sulawesi Utara 19383",silver,1996-07-27 08:08:27,1977-04-11 01:41:30,2024-04-28 01:42:16
+1777,"Irfan Novitasari, M.TI.",palastrijagapati@example.org,6272383237859187,342,perempuan,1941-11-23,"Gg. Antapani Lama No. 053
+Bima, Aceh 21695",platinum,2002-09-06 21:01:42,1976-12-16 21:06:21,2024-02-01 10:39:07
+8159,Dinda Wijayanti,jdongoran@example.com,3033736522203796,753,laki-laki,1958-07-18,"Jl. Pasirkoja No. 818
+Kupang, YO 75743",platinum,2007-12-21 20:31:30,1985-10-17 17:09:28,2024-01-31 09:31:42
+1921,Nova Pranowo,vickyharyanto@example.net,7093707422666533,419,perempuan,1979-08-07,"Jalan Kapten Muslihat No. 4
+Bogor, Sumatera Selatan 84105",silver,2010-05-15 21:18:20,2001-12-08 01:41:48,2024-01-10 17:22:39
+907,Tomi Mandasari,rmaheswara@example.com,3544815572695716,359,perempuan,1963-10-07,"Jalan Astana Anyar No. 36
+Sorong, PA 44525",silver,1988-01-29 01:06:19,1997-04-08 14:10:31,2024-01-20 15:48:59
+1387,Salimah Sirait,pdamanik@example.com,1679735349636018,642,perempuan,1923-07-05,"Gg. Cihampelas No. 71
+Tanjungpinang, Sulawesi Utara 93956",bronze,1971-06-11 23:14:00,2006-02-01 03:49:10,2024-05-11 21:42:31
+2340,Makuta Wastuti,namagaraharja@example.net,3426216270423914,356,laki-laki,2014-04-23,"Gang Sukajadi No. 692
+Padang, NT 56283",gold,2003-12-20 21:47:53,1999-02-12 20:22:40,2024-01-28 14:46:16
+9363,"R. Zulaikha Usada, M.TI.",gunawanpaiman@example.com,4074324634903148,850,perempuan,1960-05-13,"Gg. PHH. Mustofa No. 4
+Manado, KU 60898",bronze,1999-04-08 00:31:43,2021-08-22 21:02:31,2024-03-29 05:32:11
+9554,Pranawa Lestari,anggriawannadine@example.org,5054748722668207,403,laki-laki,1991-08-06,"Gg. Cikutra Timur No. 5
+Padang Sidempuan, Maluku Utara 09898",platinum,2016-02-20 05:48:24,1977-09-03 20:26:34,2024-03-01 11:17:30
+4833,Ayu Mardhiyah,ykuswandari@example.org,6841702456855022,176,laki-laki,1925-05-14,"Jl. Otto Iskandardinata No. 0
+Sorong, RI 49068",gold,2009-10-27 05:20:51,1997-07-03 05:01:17,2024-03-28 07:50:56
+3926,Mahdi Novitasari,ebudiman@example.com,3237129674349028,669,perempuan,1910-08-15,"Jalan Stasiun Wonokromo No. 9
+Tanjungbalai, Maluku Utara 01187",bronze,2015-04-20 23:08:36,1991-08-01 04:01:45,2024-02-07 07:44:01
+5383,Enteng Nainggolan,osihombing@example.org,2238483896109956,493,laki-laki,1972-09-19,"Jl. Dr. Djunjunan No. 4
+Bima, Bali 03891",silver,2016-08-14 14:07:28,2014-07-02 01:46:11,2024-04-26 06:51:07
+3680,Putu Mahendra,putugunawan@example.com,2915605605570431,54,perempuan,2016-03-16,"Gg. Jayawijaya No. 939
+Prabumulih, Riau 41954",bronze,1974-08-26 14:05:46,1973-03-03 17:45:39,2024-02-21 10:59:46
+2305,Uli Purnawati,prayogo09@example.net,2092251919203907,367,laki-laki,1945-06-10,"Gg. Cikutra Timur No. 340
+Batu, DI Yogyakarta 66360",bronze,1973-02-07 17:55:21,1988-05-07 08:03:37,2024-04-08 08:17:35
+7432,Sarah Lazuardi,kartasihombing@example.com,6825833797303631,881,perempuan,2013-07-20,"Jl. Sadang Serang No. 55
+Banjar, Nusa Tenggara Barat 36170",gold,2010-12-24 21:00:24,1989-11-02 16:52:48,2024-04-06 06:37:20
+1829,"Elma Firmansyah, M.M.",jumari64@example.net,3456943986516450,6,perempuan,1987-01-18,"Gg. Ir. H. Djuanda No. 18
+Bandar Lampung, Jambi 07171",silver,2004-06-10 08:47:48,2001-09-23 02:41:02,2024-01-29 04:52:47
+5729,"Ir. Siti Sihombing, S.Sos",suryatmidiana@example.net,9902807061292892,11,laki-laki,2013-04-19,"Gang Gedebage Selatan No. 15
+Bandung, Kepulauan Bangka Belitung 38516",silver,2005-07-16 11:47:14,2006-05-23 11:09:49,2024-03-30 07:01:41
+5070,Jaiman Damanik,taswirsuryono@example.com,5820410037233154,818,laki-laki,2003-12-29,"Gg. Indragiri No. 6
+Bengkulu, KI 12216",platinum,1997-02-27 19:19:43,2012-12-01 18:22:03,2024-05-19 11:50:39
+671,Dewi Salahudin,kuyainah@example.net,7715471634432091,30,laki-laki,1920-10-14,"Gang Soekarno Hatta No. 6
+Bengkulu, AC 75398",silver,2018-12-31 05:45:03,1983-09-24 21:12:45,2024-02-21 11:29:35
+5728,Embuh Rajasa,purwadi03@example.com,6368476359863129,3,perempuan,1976-04-12,"Jl. Kebonjati No. 0
+Balikpapan, Papua 31031",gold,1998-07-24 08:16:11,2015-01-07 04:09:29,2024-05-20 04:54:51
+9587,Icha Saptono,widodogaduh@example.net,9317237091907060,408,laki-laki,1984-02-10,"Gang Suryakencana No. 5
+Blitar, Lampung 54728",bronze,2014-04-11 10:57:33,1975-09-04 07:27:48,2024-03-03 09:47:42
