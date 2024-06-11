@@ -1,0 +1,6 @@
+id,title,description,thumbnail,start_date,end_date,point,status,admin_id,created_at,updated_at,deleted_at
+TM0001,Challenge 1,Description for Challenge 1,thumbnail1.jpg,2024-06-07 17:08:06.946,2024-07-07 17:08:06.946,1000,1,AD0001,2024-06-07 17:08:06.947,2024-06-07 17:08:06.947,
+TM0002,Challenge 2,Description for Challenge 2,thumbnail2.jpg,2024-06-07 17:08:06.946,2024-07-07 17:08:06.946,200,1,AD0001,2024-06-07 17:08:06.952,2024-06-07 17:08:06.952,
+TM0003,New Task,New Task description,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717770921/task_thumbnail/e96qgqeiuqu7pnhnwena.jpg,2024-06-04 00:00:00.000,2024-07-04 00:00:00.000,100,1,AD0001,2024-06-08 15:27:30.922,2024-06-08 15:27:30.922,
+TM0004,New Task Update new update lagi hehe,New Task description,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717949473/task_thumbnail_update/jm1zucrazmgjojbk2mih.jpg,2024-06-04 00:00:00.000,2024-07-04 00:00:00.000,100,1,AD0001,2024-06-09 16:08:47.288,2024-06-09 16:11:13.621,
+TM0005,New Task Update new,New Task description,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717950218/task_thumbnail/ha5nqp81lx8ng1hoesd9.jpg,2024-06-04 00:00:00.000,2024-07-04 00:00:00.000,100,1,AD0001,2024-06-09 16:23:39.090,2024-06-09 16:23:39.090,

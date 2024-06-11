@@ -1,0 +1,12 @@
+id,task_challenge_id,title,description,created_at,updated_at,deleted_at
+1,TM0001,Step 1,Description for Step 1,2024-06-07 17:08:06.959,2024-06-07 17:08:06.959,
+2,TM0001,Step 2,Description for Step 2,2024-06-07 17:08:06.963,2024-06-07 17:08:06.963,
+3,TM0001,Step 3,Description for Step 3,2024-06-07 17:08:06.967,2024-06-07 17:08:06.967,
+4,TM0002,Step 1,Description for Step 1,2024-06-07 17:08:06.975,2024-06-07 17:08:06.975,
+5,TM0002,Step 2,Description for Step 2,2024-06-07 17:08:06.978,2024-06-07 17:08:06.978,
+6,TM0002,Step 3,Description for Step 3,2024-06-07 17:08:06.982,2024-06-07 17:08:06.982,
+7,TM0003,Step 1,Step 1 description,2024-06-08 15:27:30.923,2024-06-08 15:27:30.923,
+8,TM0003,Step 2,Step 2 description,2024-06-08 15:27:30.923,2024-06-08 15:27:30.923,
+9,TM0004,Step 1,Step 1 description,2024-06-09 16:08:47.291,2024-06-09 16:08:47.291,2024-06-09 16:11:13.615
+10,TM0004,Step 1,Step 1 description,2024-06-09 16:11:13.622,2024-06-09 16:11:13.622,
+11,TM0005,Step 1,Step 1 description,2024-06-09 16:23:39.090,2024-06-09 16:23:39.090,
