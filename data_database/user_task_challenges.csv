@@ -1,1 +1,2 @@
 id,user_id,task_challenge_id,status_progress,status_accept,description_image,point,reason,accepted_at,created_at,updated_at,deleted_at
+UT0001,USR0004,TM0001,in_progress,need_rivew,,0,,2024-06-11 18:49:24,2024-06-11 18:49:24.164,2024-06-11 18:49:24.164,
