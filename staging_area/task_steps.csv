@@ -106,10 +106,6 @@ id,task_challenge_id,title,description,created_at,updated_at,deleted_at
 105,TM0008,Step 1,What nearby with. Sensibly we were.,2024-06-18 12:51:23.889,2024-06-18 12:51:23.889,2024-06-19 16:29:25.071
 106,TM0008,Step 2,Do instead example. Fortnightly vivaciously too.,2024-06-18 12:51:23.889,2024-06-18 12:51:23.889,2024-06-19 16:29:25.071
 107,TM0008,Step 3,Due relaxation you. Here almost he.,2024-06-18 12:51:23.889,2024-06-18 12:51:23.889,2024-06-19 16:29:25.071
-108,TM0021,Test,Test,2024-06-18 15:04:55.466,2024-06-18 15:04:55.466,
-109,TM0021,Test,Test,2024-06-18 15:04:55.466,2024-06-18 15:04:55.466,
-110,TM0022,Test,Test,2024-06-18 16:16:09.417,2024-06-18 16:16:09.417,
-111,TM0022,Test,Test,2024-06-18 16:16:09.417,2024-06-18 16:16:09.417,
 112,TM0023,Temukan Sampah Botol Plastik,"Cari dan kumpulkan botol plastik di sekitar rumah, tempat kerja, atau area umum lainnya.",2024-06-19 13:48:14.498,2024-06-19 13:48:14.498,2024-06-19 13:49:02.637
 113,TM0023,Kumpulkan dan Pisahkan,Kumpulkan botol plastik di satu tempat dan pastikan untuk memisahkannya dari jenis sampah lain.,2024-06-19 13:48:14.498,2024-06-19 13:48:14.498,2024-06-19 13:49:02.637
 114,TM0023,Masukkan ke Tong Sampah Daur Ulang,Buang botol plastik yang sudah terkumpul ke dalam tong sampah khusus untuk daur ulang.,2024-06-19 13:48:14.498,2024-06-19 13:48:14.498,2024-06-19 13:49:02.637

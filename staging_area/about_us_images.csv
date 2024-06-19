@@ -1,7 +1,7 @@
 id,about_us_id,name,image_url,created_at,updated_at,deleted_at
-ABSI01,ABS01,,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758300/recything/about-us/kan9fdnp7h6o4hfclghm.png,2024-06-15 13:03:33.756,2024-06-15 13:03:33.756,
-ABSI02,ABS05,,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758301/recything/about-us/spgrokvm9un0yq5zsycn.png,2024-06-15 13:03:33.760,2024-06-15 13:03:33.760,
-ABSI03,ABS05,,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758301/recything/about-us/tynymzulgmkwiqu4a7mb.png,2024-06-15 13:03:33.766,2024-06-15 13:03:33.766,
+ABSI01,ABS01,Unknown,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758300/recything/about-us/kan9fdnp7h6o4hfclghm.png,2024-06-15 13:03:33.756,2024-06-15 13:03:33.756,
+ABSI02,ABS05,Unknown,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758301/recything/about-us/spgrokvm9un0yq5zsycn.png,2024-06-15 13:03:33.760,2024-06-15 13:03:33.760,
+ABSI03,ABS05,Unknown,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758301/recything/about-us/tynymzulgmkwiqu4a7mb.png,2024-06-15 13:03:33.766,2024-06-15 13:03:33.766,
 ABSI04,ABS06,Hadyan Alhafizh,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718207346/recything/about-us/tim/uiux-1.png,2024-06-15 13:03:33.770,2024-06-15 13:03:33.770,
 ABSI05,ABS06,Leonita Puteri Kurniawan,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718207346/recything/about-us/tim/uiux-2.png,2024-06-15 13:03:33.774,2024-06-15 13:03:33.774,
 ABSI06,ABS06,Afni Kurnia Herawati,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718207346/recything/about-us/tim/uiux-3.png,2024-06-15 13:03:33.778,2024-06-15 13:03:33.778,
@@ -24,4 +24,4 @@ ABSI22,ABS10,Daffa Alfahryan Syuja Syaehu,https://res.cloudinary.com/dlbbsdd3a/i
 ABSI23,ABS10,Afril Istihawa,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718207346/recything/about-us/tim/data-3.png,2024-06-15 13:03:33.848,2024-06-15 13:03:33.848,
 ABSI24,ABS11,Ismy Fana Fillah,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718207346/recything/about-us/tim/quality-1.png,2024-06-15 13:03:33.853,2024-06-15 13:03:33.853,
 ABSI25,ABS11,Ardelia Syahira Yudiva,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718207346/recything/about-us/tim/quality-2.png,2024-06-15 13:03:33.856,2024-06-15 13:03:33.856,
-ABSI26,ABS12,,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758300/recything/about-us/mfi5xij2xssmztqwaybz.png,2024-06-15 13:03:33.861,2024-06-15 13:03:33.861,
+ABSI26,ABS12,Unknown,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1717758300/recything/about-us/mfi5xij2xssmztqwaybz.png,2024-06-15 13:03:33.861,2024-06-15 13:03:33.861,
