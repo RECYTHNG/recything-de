@@ -1,4 +1,4 @@
-id,report_waste_materials,user_id,report_type
+id,report_waste_materials_id,user_id,report_type
 RPT0001,29372d78-a6b9-480f-82c1-27485b2ffc78,USR0007,rubbish
 RPT0002,6286d5fa-5384-4cbe-9f92-ad00f43e567b,USR0027,rubbish
 RPT0002,ffb4e8ef-f3a3-4921-89e5-d2d1fde7dcd8,USR0027,rubbish

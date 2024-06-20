@@ -1,8 +1,8 @@
 id,task_challenge_id,title,description,created_at,updated_at,deleted_at
-1,TM0001,Step 1,These why you. Band sorrow theirs.,2024-01-23 07:51:11.000,2024-06-15 13:03:34.221,
-2,TM0001,Step 2,In off him. Besides that his.,2024-01-06 15:19:29.000,2024-06-15 13:03:34.225,
-3,TM0001,Step 3,Such in would. This should indeed.,2024-02-17 03:44:13.000,2024-06-15 13:03:34.230,
-4,TM0001,Step 4,Double their alternatively. Without ours below.,2024-02-20 05:12:57.000,2024-06-15 13:03:34.234,
+1,TM0001,Step 1,These why you. Band sorrow theirs.,2024-01-23 07:51:11.000,2024-06-15 13:03:34.221,2024-06-20 11:00:27.905
+2,TM0001,Step 2,In off him. Besides that his.,2024-01-06 15:19:29.000,2024-06-15 13:03:34.225,2024-06-20 11:00:27.905
+3,TM0001,Step 3,Such in would. This should indeed.,2024-02-17 03:44:13.000,2024-06-15 13:03:34.230,2024-06-20 11:00:27.905
+4,TM0001,Step 4,Double their alternatively. Without ours below.,2024-02-20 05:12:57.000,2024-06-15 13:03:34.234,2024-06-20 11:00:27.905
 5,TM0002,Step 1,From summation congregation. Have e.g. even.,2024-04-12 04:22:38.000,2024-06-15 13:03:34.239,
 6,TM0002,Step 2,Under you full. Finally begin for.,2024-02-08 15:02:27.000,2024-06-15 13:03:34.243,
 7,TM0002,Step 3,Basket tomatoes Welsh. How whose grasp.,2024-04-18 23:02:25.000,2024-06-15 13:03:34.247,
@@ -97,10 +97,10 @@ id,task_challenge_id,title,description,created_at,updated_at,deleted_at
 96,TM0011,Step 2,Its its sew. Tomorrow you other.,2024-06-16 16:20:14.001,2024-06-16 16:20:14.001,2024-06-19 16:47:41.235
 97,TM0011,Step 3,Elsewhere above you. What earlier rather.,2024-06-16 16:20:14.001,2024-06-16 16:20:14.001,2024-06-19 16:47:41.235
 98,TM0011,Step 4,Down horde whom. Hostel sheaf instance.,2024-06-16 16:20:14.001,2024-06-16 16:20:14.001,2024-06-19 16:47:41.235
-99,TM0010,Step 1,Lastly nightly yours. Them of who.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,
-100,TM0010,Step 2,Say abundant reel. Almost bevy Indonesian.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,
-101,TM0010,Step 3,School me finally. Tissue every otherwise.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,
-102,TM0010,Step 4,Which yoga team. Me monthly due.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,
+99,TM0010,Step 1,Lastly nightly yours. Them of who.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,2024-06-20 09:57:39.126
+100,TM0010,Step 2,Say abundant reel. Almost bevy Indonesian.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,2024-06-20 09:57:39.126
+101,TM0010,Step 3,School me finally. Tissue every otherwise.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,2024-06-20 09:57:39.126
+102,TM0010,Step 4,Which yoga team. Me monthly due.,2024-06-16 16:20:33.869,2024-06-16 16:20:33.869,2024-06-20 09:57:39.126
 103,TM0009,Step 1,Those nightly execute. Milk ourselves did.,2024-06-17 14:14:20.565,2024-06-17 14:14:20.565,2024-06-19 16:48:35.793
 104,TM0009,Step 2,Since empty late. Cheese they without.,2024-06-17 14:14:20.565,2024-06-17 14:14:20.565,2024-06-19 16:48:35.793
 105,TM0008,Step 1,What nearby with. Sensibly we were.,2024-06-18 12:51:23.889,2024-06-18 12:51:23.889,2024-06-19 16:29:25.071
@@ -134,3 +134,15 @@ id,task_challenge_id,title,description,created_at,updated_at,deleted_at
 137,TM0011,Step 2,Its its sew. Tomorrow you other.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,
 138,TM0011,Step 3,Elsewhere above you. What earlier rather.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,
 139,TM0011,Step 4,Down horde whom. Hostel sheaf instance.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,
+140,TM0024,Temukan sampah botol plastik,"Cari dan kumpulkan botol plastik di sekitar rumah, tempat kerja, atau area umum lainnya.",2024-06-20 09:56:52.747,2024-06-20 09:56:52.747,2024-06-20 09:58:30.402
+141,TM0024,Kumpulkan dan pisahkan,Kumpulkan botol plastik di satu tempat dan pastikan untuk memisahkannya dari jenis sampah yang lain,2024-06-20 09:56:52.747,2024-06-20 09:56:52.747,2024-06-20 09:58:30.402
+142,TM0024,Masukkan ke tong sampah daur ulang,Buang botol plastik yang sudah terkumpul ke dalam tong sampah khusus untuk daur ulang,2024-06-20 09:56:52.747,2024-06-20 09:56:52.747,2024-06-20 09:58:30.402
+143,TM0010,Step 1,Lastly nightly yours. Them of who.,2024-06-20 09:57:39.128,2024-06-20 09:57:39.128,
+144,TM0010,Step 2,Say abundant reel. Almost bevy Indonesian.,2024-06-20 09:57:39.128,2024-06-20 09:57:39.128,
+145,TM0010,Step 3,School me finally. Tissue every otherwise.,2024-06-20 09:57:39.128,2024-06-20 09:57:39.128,
+146,TM0010,Step 4,Which yoga team. Me monthly due.,2024-06-20 09:57:39.128,2024-06-20 09:57:39.128,
+147,TM0024,Temukan sampah botol plastik,"Cari dan kumpulkan botol plastik di sekitar rumah, tempat kerja, atau area umum lainnya.",2024-06-20 09:58:30.403,2024-06-20 09:58:30.403,
+148,TM0024,Kumpulkan dan pisahkan,Kumpulkan botol plastik di satu tempat dan pastikan untuk memisahkannya dari jenis sampah yang lain,2024-06-20 09:58:30.403,2024-06-20 09:58:30.403,
+149,TM0024,Masukkan ke tong sampah daur ulang,Buang botol plastik yang sudah terkumpul ke dalam tong sampah khusus untuk daur ulang,2024-06-20 09:58:30.403,2024-06-20 09:58:30.403,
+150,TM0001,Step 1,Step 1 description,2024-06-20 11:00:27.907,2024-06-20 11:00:27.907,2024-06-20 11:22:42.855
+151,TM0001,Step 1,Step 1 description,2024-06-20 11:22:42.857,2024-06-20 11:22:42.857,

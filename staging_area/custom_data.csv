@@ -8,8 +8,8 @@ CDT0006,Daur Ulang Kertas,"Kertas dapat didaur ulang menjadi produk baru dengan 
 CDT0007,Penggunaan Ulang Barang Bekas,"Banyak barang bekas seperti pakaian, furnitur, dan alat rumah tangga masih bisa digunakan kembali. Dengan sedikit kreativitas, barang-barang ini bisa diperbaiki atau dimodifikasi untuk digunakan kembali, mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir.",2024-06-15 13:03:33.984,2024-06-15 13:03:33.984,
 CDT0008,Pengelolaan Sampah Anorganik,"Sampah anorganik seperti kaca, logam, dan beberapa jenis plastik bisa didaur ulang. Pengelolaan yang tepat melibatkan pemisahan berdasarkan jenis bahan, pembersihan, dan pengiriman ke fasilitas daur ulang yang sesuai.",2024-06-15 13:03:33.988,2024-06-15 13:03:33.988,
 CDT0009,Dampak Lingkungan dari Sampah Plastik,"Sampah plastik yang tidak terkelola dengan baik bisa mencemari lingkungan, termasuk lautan. Plastik membutuhkan ratusan tahun untuk terurai dan bisa membahayakan kehidupan laut. Mengurangi penggunaan plastik sekali pakai dan mendaur ulang plastik yang ada adalah langkah penting untuk mengatasi masalah ini.",2024-06-15 13:03:33.992,2024-06-15 13:03:33.992,
-CDT0010,Teknologi Baru dalam Daur Ulang,Teknologi baru seperti pemanfaatan enzim untuk mendaur ulang plastik dan penggunaan sensor untuk pengelolaan sampah cerdas sedang dikembangkan. Teknologi ini bertujuan untuk meningkatkan efisiensi proses daur ulang dan mengurangi jumlah sampah yang tidak terkelola dengan baik.,2024-06-15 13:03:33.995,2024-06-15 13:03:33.995,
-CDT0011,Test Update Topic 11,Test Update Description 11,2024-06-16 10:04:40.607,2024-06-18 11:50:23.413,
+CDT0010,Teknologi Baru dalam Daur Ulang,Teknologi baru seperti pemanfaatan enzim untuk mendaur ulang plastik dan penggunaan sensor untuk pengelolaan sampah cerdas sedang dikembangkan. Teknologi ini bertujuan untuk meningkatkan efisiensi proses daur ulang dan mengurangi jumlah sampah yang tidak terkelola dengan baik.,2024-06-15 13:03:33.995,2024-06-20 12:08:58.376,
+CDT0011,Test Update Topic 12,Test Update Description 12,2024-06-16 10:04:40.607,2024-06-20 11:51:39.248,2024-06-20 12:09:12.227
 CDT0012,Test,Test123,2024-06-16 11:06:55.275,2024-06-16 11:06:55.275,2024-06-16 12:08:05.522
 CDT0013,Test1,Test2,2024-06-16 11:08:21.144,2024-06-16 11:08:21.144,2024-06-16 12:08:01.519
 CDT0014,Test12345,Test12345,2024-06-16 11:53:57.730,2024-06-16 11:54:28.387,2024-06-16 12:07:58.744
@@ -17,7 +17,7 @@ CDT0015,Test123,Test123,2024-06-16 11:54:54.471,2024-06-16 11:54:54.471,2024-06-
 CDT0016,Test,Test,2024-06-16 11:56:31.682,2024-06-16 11:56:55.662,2024-06-16 12:07:48.716
 CDT0017,Test12345,Test12345,2024-06-16 12:08:33.976,2024-06-16 12:08:42.169,2024-06-16 12:10:28.330
 CDT0018,Test123,Test123,2024-06-16 12:14:12.728,2024-06-16 12:14:12.728,2024-06-16 12:15:06.252
-CDT0019,Test 123456,Test Aja Lagi 123456,2024-06-16 12:15:17.981,2024-06-18 11:47:32.030,
+CDT0019,Test 123,Test Aja 123,2024-06-16 12:15:17.981,2024-06-20 11:35:23.449,2024-06-20 12:09:07.489
 CDT0020,test,test123,2024-06-18 11:44:23.966,2024-06-18 11:44:23.966,2024-06-18 16:41:48.062
 CDT0021,Test Topic,Test Description test,2024-06-18 11:50:37.476,2024-06-18 12:52:41.779,
 CDT0022,test,test,2024-06-18 16:39:07.352,2024-06-18 16:39:07.352,2024-06-18 16:40:09.782
@@ -27,3 +27,9 @@ CDT0025,test,test,2024-06-18 16:42:39.772,2024-06-18 16:42:39.772,2024-06-18 16:
 CDT0026,test,test,2024-06-18 16:43:53.407,2024-06-18 16:43:53.407,2024-06-18 16:44:01.757
 CDT0027,test123,test123,2024-06-18 16:44:51.668,2024-06-18 16:44:51.668,2024-06-18 16:44:56.019
 CDT0028,test123,test12345,2024-06-18 16:46:25.298,2024-06-18 16:46:32.040,2024-06-18 16:46:39.933
+CDT0029,Jenis-jenis sampah,"1. Sampah Organik: Sampah yang berasal dari bahan-bahan alami seperti sisa makanan, daun, dan ranting pohon. Sampah jenis ini dapat terurai secara alami.
+
+2. Sampah Anorganik: Sampah yang tidak mudah terurai seperti plastik, logam, dan kaca. Sampah ini seringkali memerlukan waktu ratusan tahun untuk terurai.
+
+3. Sampah Berbahaya: Sampah yang mengandung bahan kimia berbahaya seperti baterai, cat, dan obat-obatan. Sampah ini memerlukan penanganan khusus untuk mencegah kontaminasi.",2024-06-20 10:05:38.036,2024-06-20 10:05:38.036,2024-06-20 10:05:49.611
+CDT0030,123,123,2024-06-20 11:35:43.660,2024-06-20 11:35:43.660,2024-06-20 11:35:49.153

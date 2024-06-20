@@ -7,8 +7,8 @@ id,user_task_challenge_id,image_url,created_at,updated_at,deleted_at
 6,UT0019,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718788797/task_images%2BUT0019/yhqc8bguxhg86abttv5g.jpg,2024-06-19 09:19:59.413,2024-06-19 09:19:59.413,
 7,UT0019,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718788798/task_images%2BUT0019/umvcgf8hhccqsrvjgo2h.jpg,2024-06-19 09:19:59.414,2024-06-19 09:19:59.414,
 8,UT0019,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718788798/task_images%2BUT0019/qlqwbf5qkgmqivc1eu47.jpg,2024-06-19 09:19:59.414,2024-06-19 09:19:59.414,
-9,UT0020,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718798327/task_images%2BUT0020/do9amkoosxonxfuc1l43.jpg,2024-06-19 11:58:49.376,2024-06-19 11:58:49.376,
-10,UT0020,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718798328/task_images%2BUT0020/qv6itdazcw4kth8mek8o.jpg,2024-06-19 11:58:49.376,2024-06-19 11:58:49.376,
+9,UT0020,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718798327/task_images%2BUT0020/do9amkoosxonxfuc1l43.jpg,2024-06-19 11:58:49.376,2024-06-19 11:58:49.376,2024-06-20 00:00:32.213
+10,UT0020,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718798328/task_images%2BUT0020/qv6itdazcw4kth8mek8o.jpg,2024-06-19 11:58:49.376,2024-06-19 11:58:49.376,2024-06-20 00:00:32.213
 11,UT0021,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718798608/task_images%2BUT0021/whctxewozsfietivsy5j.jpg,2024-06-19 12:03:28.709,2024-06-19 12:03:28.709,
 12,UT0023,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718802261/task_images%2BUT0023/eld8gtctqlecmrfi31vg.jpg,2024-06-19 13:04:22.169,2024-06-19 13:04:22.169,
 13,UT0025,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718809052/task_images%2BUT0025/t58uym3czbijcvqpve2f.jpg,2024-06-19 14:57:34.296,2024-06-19 14:57:34.296,
@@ -17,3 +17,7 @@ id,user_task_challenge_id,image_url,created_at,updated_at,deleted_at
 16,UT0030,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718815414/task_images%2BUT0030/lwvx9niem16rnlesrchf.jpg,2024-06-19 16:43:35.411,2024-06-19 16:43:35.411,
 17,UT0031,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718816477/task_images%2BUT0031/ljf6t6jgmfneiouedw8o.jpg,2024-06-19 17:01:19.403,2024-06-19 17:01:19.403,
 18,UT0031,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718816478/task_images%2BUT0031/ovvpwcvg2hynzwkx1n26.jpg,2024-06-19 17:01:19.403,2024-06-19 17:01:19.403,
+19,UT0020,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718841631/task_images_update%2BUT0020/vkierehexnanjl2nhzlh.jpg,2024-06-20 00:00:32.214,2024-06-20 00:00:32.214,
+20,UT0032,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718842379/task_images%2BUT0032/rka1tmcfzz4sopvxt8ii.jpg,2024-06-20 00:12:59.675,2024-06-20 00:12:59.675,
+21,UT0033,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718844744/task_images%2BUT0033/zvnzgbn0pyyi9z2aasjh.jpg,2024-06-20 00:52:26.540,2024-06-20 00:52:26.540,
+22,UT0033,https://res.cloudinary.com/dlbbsdd3a/image/upload/v1718844746/task_images%2BUT0033/vprunpgm2ylb6xufhzbl.jpg,2024-06-20 00:52:26.541,2024-06-20 00:52:26.541,
