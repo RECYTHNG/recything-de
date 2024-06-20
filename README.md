@@ -30,10 +30,10 @@ Frameworks:
 - from google.cloud.exceptions import NotFound
 
 # Architecture Diagram
-![image](..//recything-de/etl-architecture.png)
+![image](./etl-architecture.png)
 
 # Schema Data Warehouse
-![image](..//recything-de/multi-star-schema-de.png)
+![image](./multi-star-schema-de.png)
 
 # Dashboard Visualization
 [Dashboard Visualization Data Engineer](https://lookerstudio.google.com/reporting/69667802-88f6-47c2-a083-f2b7a5a6febd)
