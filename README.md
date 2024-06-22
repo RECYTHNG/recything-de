@@ -36,6 +36,7 @@ Frameworks:
 [Schema Data Warehouse](https://app.diagrams.net/#G1LylCoUEiQYpQpuj2GeisiBXmiXjsQXTz#%7B%22pageId%22%3A%226ofVpxtqm7AOZWSaK6SD%22%7D)
 
 # Dashboard Visualization
+![image](./dashboard-visualization-de.png)
 [Dashboard Visualization Data Engineer](https://lookerstudio.google.com/reporting/69667802-88f6-47c2-a083-f2b7a5a6febd)
 
 # Setup
