@@ -1,8 +1,8 @@
 # Project Name
-ETL Process and Data Visualization for RecyThing
+ETL Process and Data Visualization for RecyThing user activity and environmental data
 
 # About Project
-RecyThing is an innovative project aimed at enhancing waste management and recycling processes through advanced data analytics and visualization. By leveraging the power of BigQuery and data visualization tools, RecyThing provides insights into recycling patterns, efficiency of waste collection, and the overall impact on the environment.
+The RecyThing project focuses on optimizing and visualizing user activity and environmental data through an efficient ETL (Extract, Transform, Load) process. By extracting data from databases, transforming it into a consistent, analyzable format, and loading it into a centralized database, we ensure data accuracy and accessibility. Our goal is to leverage this processed data to create in-depth visualizations that highlight user behavior and environmental data that support sustainable practices and informed decision-making.
 
 # Tech Stacks
 Tools:
@@ -16,7 +16,6 @@ Tools:
 - Looker Studio
 - Drawio
 - Figma
-- NAGA AI
 - Apache Airflow
 
 Frameworks:
@@ -34,6 +33,7 @@ Frameworks:
 
 # Schema Data Warehouse
 ![image](./multi-star-schema-de.png)
+[Schema Data Warehouse](https://app.diagrams.net/#G1LylCoUEiQYpQpuj2GeisiBXmiXjsQXTz#%7B%22pageId%22%3A%226ofVpxtqm7AOZWSaK6SD%22%7D)
 
 # Dashboard Visualization
 [Dashboard Visualization Data Engineer](https://lookerstudio.google.com/reporting/69667802-88f6-47c2-a083-f2b7a5a6febd)
@@ -41,8 +41,8 @@ Frameworks:
 # Setup
 - Clone repository proyek dari GitHub.
 - Masuk ke dalam direktori proyek dan instal semua dependensi yang diperlukan.
-- Ubah file konfigurasi (biasanya berupa file .env) untuk mencocokkan pengaturan lokal, termasuk konfigurasi database, sumber data, dan target data.
+- Ubah file konfigurasi (berupa file .env) untuk mencocokkan pengaturan lokal, termasuk konfigurasi database dan target load.
 - Menjalankan proyek pipelines ETL
 - Pantau proses ETL saat berjalan dan pastikan untuk menangani semua kesalahan atau masalah yang mungkin muncul.
 - Pastikan bahwa data yang diekstrak, ditransformasi, dan dimuat (ETL) sesuai dengan yang diharapkan dengan menjalankan tes yang sesuai.
-- Melakukan optimasi kinerja atau penyetelan lebih lanjut untuk meningkatkan kinerja atau keandalan.
+- Melakukan optimasi kinerja atau penyetelan lebih lanjut untuk meningkatkan kinerja atau keandalan (seperti otomasi dengan airflow).

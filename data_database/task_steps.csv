@@ -134,10 +134,10 @@ id,task_challenge_id,title,description,created_at,updated_at,deleted_at
 133,TM0011,Step 4,Down horde whom. Hostel sheaf instance.,2024-06-19 16:47:41.237,2024-06-19 16:47:41.237,2024-06-19 16:50:26.103
 134,TM0009,Step 1,Those nightly execute. Milk ourselves did.,2024-06-19 16:48:35.795,2024-06-19 16:48:35.795,
 135,TM0009,Step 2,Since empty late. Cheese they without.,2024-06-19 16:48:35.795,2024-06-19 16:48:35.795,
-136,TM0011,Step 1,Coldness these there. Besides stress yet.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,
-137,TM0011,Step 2,Its its sew. Tomorrow you other.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,
-138,TM0011,Step 3,Elsewhere above you. What earlier rather.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,
-139,TM0011,Step 4,Down horde whom. Hostel sheaf instance.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,
+136,TM0011,Step 1,Coldness these there. Besides stress yet.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,2024-06-20 13:23:10.183
+137,TM0011,Step 2,Its its sew. Tomorrow you other.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,2024-06-20 13:23:10.183
+138,TM0011,Step 3,Elsewhere above you. What earlier rather.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,2024-06-20 13:23:10.183
+139,TM0011,Step 4,Down horde whom. Hostel sheaf instance.,2024-06-19 16:50:26.106,2024-06-19 16:50:26.106,2024-06-20 13:23:10.183
 140,TM0024,Temukan sampah botol plastik,"Cari dan kumpulkan botol plastik di sekitar rumah, tempat kerja, atau area umum lainnya.",2024-06-20 09:56:52.747,2024-06-20 09:56:52.747,2024-06-20 09:58:30.402
 141,TM0024,Kumpulkan dan pisahkan,Kumpulkan botol plastik di satu tempat dan pastikan untuk memisahkannya dari jenis sampah yang lain,2024-06-20 09:56:52.747,2024-06-20 09:56:52.747,2024-06-20 09:58:30.402
 142,TM0024,Masukkan ke tong sampah daur ulang,Buang botol plastik yang sudah terkumpul ke dalam tong sampah khusus untuk daur ulang,2024-06-20 09:56:52.747,2024-06-20 09:56:52.747,2024-06-20 09:58:30.402
@@ -149,6 +149,32 @@ id,task_challenge_id,title,description,created_at,updated_at,deleted_at
 148,TM0024,Kumpulkan dan pisahkan,Kumpulkan botol plastik di satu tempat dan pastikan untuk memisahkannya dari jenis sampah yang lain,2024-06-20 09:58:30.403,2024-06-20 09:58:30.403,
 149,TM0024,Masukkan ke tong sampah daur ulang,Buang botol plastik yang sudah terkumpul ke dalam tong sampah khusus untuk daur ulang,2024-06-20 09:58:30.403,2024-06-20 09:58:30.403,
 150,TM0001,Step 1,Step 1 description,2024-06-20 11:00:27.907,2024-06-20 11:00:27.907,2024-06-20 11:22:42.855
-151,TM0001,Step 1,Step 1 description,2024-06-20 11:22:42.857,2024-06-20 11:22:42.857,
+151,TM0001,Step 1,Step 1 description,2024-06-20 11:22:42.857,2024-06-20 11:22:42.857,2024-06-20 17:22:41.492
 152,TM0025,test,test,2024-06-20 11:36:58.806,2024-06-20 11:36:58.806,
 153,TM0025,test,test,2024-06-20 11:36:58.806,2024-06-20 11:36:58.806,
+154,TM0011,Step 1,Coldness these there. Besides stress yet.,2024-06-20 13:23:10.186,2024-06-20 13:23:10.186,
+155,TM0011,Step 2,Its its sew. Tomorrow you other.,2024-06-20 13:23:10.186,2024-06-20 13:23:10.186,
+156,TM0011,Step 3,Elsewhere above you. What earlier rather.,2024-06-20 13:23:10.186,2024-06-20 13:23:10.186,
+157,TM0011,Step 4,Down horde whom. Hostel sheaf instance.,2024-06-20 13:23:10.186,2024-06-20 13:23:10.186,
+158,TM0001,Step 1,Step 1 description,2024-06-20 17:22:41.494,2024-06-20 17:22:41.494,
+159,TM0026,step 1,desc 1,2024-06-21 09:29:47.431,2024-06-21 09:29:47.431,2024-06-21 09:30:20.674
+160,TM0026,step 2,desc 2,2024-06-21 09:29:47.431,2024-06-21 09:29:47.431,2024-06-21 09:30:20.674
+161,TM0026,step 1,desc 1,2024-06-21 09:30:20.675,2024-06-21 09:30:20.675,2024-06-21 09:30:43.119
+162,TM0026,step 2,desc 2,2024-06-21 09:30:20.675,2024-06-21 09:30:20.675,2024-06-21 09:30:43.119
+163,TM0026,step 1,desc 1,2024-06-21 09:30:43.121,2024-06-21 09:30:43.121,
+164,TM0026,step 2,desc 2,2024-06-21 09:30:43.121,2024-06-21 09:30:43.121,
+165,TM0027,Cari di Kota dan desa,"orem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel tempus quam. Quisque feugiat tortor purus, ut interdum tellus ornare vel. Pellentesque ac ex a ex accumsan convallis et ut dolor. Mauris magna ligula, pulvinar id augue sit amet, efficitur blandit nisi. Cras condimentum lorem ex, non efficitur leo euismod eu. Cras egestas mauris quis tortor porttitor egestas. Praesent eleifend commodo ligula, id fermentum lectus tincidunt et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis vitae nulla quis mattis. Duis ut neque diam. Nam lobortis efficitur convallis. Aliquam ligula ligula, rhoncus in dictum in, congue non magna.",2024-06-21 16:57:16.127,2024-06-21 16:57:16.127,2024-06-21 17:04:18.364
+166,TM0027,Cari di pemerin,"orem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel tempus quam. Quisque feugiat tortor purus, ut interdum tellus ornare vel. Pellentesque ac ex a ex accumsan convallis et ut dolor. Mauris magna ligula, pulvinar id augue sit amet, efficitur blandit nisi. Cras condimentum lorem ex, non efficitur leo euismod eu. Cras egestas mauris quis tortor porttitor egestas. Praesent eleifend commodo ligula, id fermentum lectus tincidunt et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis vitae nulla quis mattis. Duis ut neque diam. Nam lobortis efficitur convallis. Aliquam ligula ligula, rhoncus in dictum in, congue non magna.",2024-06-21 16:57:16.127,2024-06-21 16:57:16.127,2024-06-21 17:04:18.364
+167,TM0027,Cari di Kota dan desa,"orem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel tempus quam. Quisque feugiat tortor purus, ut interdum tellus ornare vel. Pellentesque ac ex a ex accumsan convallis et ut dolor. Mauris magna ligula, pulvinar id augue sit amet, efficitur blandit nisi. Cras condimentum lorem ex, non efficitur leo euismod eu. Cras egestas mauris quis tortor porttitor egestas. Praesent eleifend commodo ligula, id fermentum lectus tincidunt et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis vitae nulla quis mattis. Duis ut neque diam. Nam lobortis efficitur convallis. Aliquam ligula ligula, rhoncus in dictum in, congue non magna.",2024-06-21 17:04:18.365,2024-06-21 17:04:18.365,
+168,TM0027,Cari di pemerin,"orem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel tempus quam. Quisque feugiat tortor purus, ut interdum tellus ornare vel. Pellentesque ac ex a ex accumsan convallis et ut dolor. Mauris magna ligula, pulvinar id augue sit amet, efficitur blandit nisi. Cras condimentum lorem ex, non efficitur leo euismod eu. Cras egestas mauris quis tortor porttitor egestas. Praesent eleifend commodo ligula, id fermentum lectus tincidunt et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis vitae nulla quis mattis. Duis ut neque diam. Nam lobortis efficitur convallis. Aliquam ligula ligula, rhoncus in dictum in, congue non magna.",2024-06-21 17:04:18.365,2024-06-21 17:04:18.365,
+169,TM0027,Step 3,"orem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel tempus quam. Quisque feugiat tortor purus, ut interdum tellus ornare vel. Pellentesque ac ex a ex accumsan convallis et ut dolor. Mauris magna ligula, pulvinar id augue sit amet, efficitur blandit nisi. Cras condimentum lorem ex, non efficitur leo euismod eu. Cras egestas mauris quis tortor porttitor egestas. Praesent eleifend commodo ligula, id fermentum lectus tincidunt et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse facilisis vitae nulla quis mattis. Duis ut neque diam. Nam lobortis efficitur convallis. Aliquam ligula ligula, rhoncus in dictum in, congue non magna.",2024-06-21 17:04:18.365,2024-06-21 17:04:18.365,
+170,TM0028,Step 1,1,2024-06-22 10:38:06.248,2024-06-22 10:38:06.248,
+171,TM0028,Step 2,2,2024-06-22 10:38:06.248,2024-06-22 10:38:06.248,
+172,TM0028,Step 3,3,2024-06-22 10:38:06.248,2024-06-22 10:38:06.248,
+173,TM0028,Step 4,4,2024-06-22 10:38:06.248,2024-06-22 10:38:06.248,
+174,TM0028,Step 5,5,2024-06-22 10:38:06.248,2024-06-22 10:38:06.248,
+175,TM0029,Step 1,1,2024-06-22 10:43:24.352,2024-06-22 10:43:24.352,
+176,TM0029,Step 2,2,2024-06-22 10:43:24.352,2024-06-22 10:43:24.352,
+177,TM0029,Step 3,3,2024-06-22 10:43:24.352,2024-06-22 10:43:24.352,
+178,TM0029,Step 4,4,2024-06-22 10:43:24.352,2024-06-22 10:43:24.352,
+179,TM0029,Step 5,5,2024-06-22 10:43:24.352,2024-06-22 10:43:24.352,
