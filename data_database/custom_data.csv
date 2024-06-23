@@ -4,7 +4,7 @@ CDT0002,Pemanfaatan Sampah Organik,Sampah organik seperti sisa makanan dan daun 
 CDT0003,Pengelolaan Sampah Elektronik,"Sampah elektronik seperti ponsel lama, komputer, dan televisi harus dibawa ke pusat daur ulang elektronik. Komponen-komponen berharga seperti logam mulia bisa diekstraksi dan digunakan kembali, sementara bahan berbahaya dikelola dengan aman.",2024-06-15 13:03:33.968,2024-06-15 13:03:33.968,
 CDT0004,Kompetisi Pengurangan Sampah,Kompetisi ini mengajak masyarakat untuk mengurangi sampah yang mereka hasilkan dalam periode tertentu. Pemenang akan ditentukan berdasarkan jumlah sampah yang berhasil dikurangi dan kreativitas dalam mendaur ulang atau mengurangi penggunaan barang sekali pakai.,2024-06-15 13:03:33.971,2024-06-15 13:03:33.971,
 CDT0005,Melaporkan Sampah yang Tidak pada Tempatnya,"Pengguna aplikasi dapat melaporkan sampah yang ditemukan di tempat umum yang tidak sesuai. Laporan harus mencakup foto, lokasi, dan jenis sampah. Tim kebersihan akan diberitahu untuk mengambil tindakan.",2024-06-15 13:03:33.976,2024-06-15 13:03:33.976,
-CDT0006,Daur Ulang Kertas,"Kertas dapat didaur ulang menjadi produk baru dengan cara dikumpulkan, dipisahkan berdasarkan jenis, dihancurkan menjadi pulp, kemudian dibersihkan dan diproses menjadi kertas baru. Produk seperti koran, majalah, dan karton sering kali dapat didaur ulang.",2024-06-15 13:03:33.980,2024-06-15 13:03:33.980,
+CDT0006,Daur Ulang Kertas,"Kertas dapat didaur ulang menjadi produk baru dengan cara dikumpulkan, dipisahkan berdasarkan jenis, dihancurkan menjadi pulp, kemudian dibersihkan dan diproses menjadi kertas baru. Produk seperti koran, majalah, dan karton sering kali dapat didaur ulang.",2024-06-15 13:03:33.980,2024-06-22 22:25:28.725,
 CDT0007,Penggunaan Ulang Barang Bekas,"Banyak barang bekas seperti pakaian, furnitur, dan alat rumah tangga masih bisa digunakan kembali. Dengan sedikit kreativitas, barang-barang ini bisa diperbaiki atau dimodifikasi untuk digunakan kembali, mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir.",2024-06-15 13:03:33.984,2024-06-15 13:03:33.984,
 CDT0008,Pengelolaan Sampah Anorganik,"Sampah anorganik seperti kaca, logam, dan beberapa jenis plastik bisa didaur ulang. Pengelolaan yang tepat melibatkan pemisahan berdasarkan jenis bahan, pembersihan, dan pengiriman ke fasilitas daur ulang yang sesuai.",2024-06-15 13:03:33.988,2024-06-15 13:03:33.988,
 CDT0009,Dampak Lingkungan dari Sampah Plastik,"Sampah plastik yang tidak terkelola dengan baik bisa mencemari lingkungan, termasuk lautan. Plastik membutuhkan ratusan tahun untuk terurai dan bisa membahayakan kehidupan laut. Mengurangi penggunaan plastik sekali pakai dan mendaur ulang plastik yang ada adalah langkah penting untuk mengatasi masalah ini.",2024-06-15 13:03:33.992,2024-06-15 13:03:33.992,
@@ -19,7 +19,7 @@ CDT0017,Test12345,Test12345,2024-06-16 12:08:33.976,2024-06-16 12:08:42.169,2024
 CDT0018,Test123,Test123,2024-06-16 12:14:12.728,2024-06-16 12:14:12.728,2024-06-16 12:15:06.252
 CDT0019,Test 123,Test Aja 123,2024-06-16 12:15:17.981,2024-06-20 11:35:23.449,2024-06-20 12:09:07.489
 CDT0020,test,test123,2024-06-18 11:44:23.966,2024-06-18 11:44:23.966,2024-06-18 16:41:48.062
-CDT0021,Test Topic New,Test Description test,2024-06-18 11:50:37.476,2024-06-21 04:17:29.495,
+CDT0021,Test Topic New,Test Description test,2024-06-18 11:50:37.476,2024-06-21 04:17:29.495,2024-06-22 22:34:09.569
 CDT0022,test,test,2024-06-18 16:39:07.352,2024-06-18 16:39:07.352,2024-06-18 16:40:09.782
 CDT0023,test123,test123,2024-06-18 16:39:45.818,2024-06-18 16:39:45.818,2024-06-18 16:39:49.630
 CDT0024,test,test,2024-06-18 16:42:20.721,2024-06-18 16:42:20.721,2024-06-18 16:42:24.536
@@ -37,3 +37,8 @@ CDT0031,test,test123,2024-06-20 12:28:13.083,2024-06-20 12:28:13.083,2024-06-20 
 CDT0032,Test123,Test123,2024-06-20 12:34:36.112,2024-06-20 12:34:36.112,2024-06-20 12:42:02.855
 CDT0033,test,test,2024-06-20 12:44:23.250,2024-06-20 12:44:23.250,2024-06-20 12:45:04.741
 CDT0034,test12345,test12345,2024-06-20 12:45:17.222,2024-06-20 12:45:26.040,2024-06-20 12:45:29.296
+CDT0035,Pengelolahan sampah,Bagaimana cara saya mengelola beberapa sampah anorganik,2024-06-22 21:19:23.141,2024-06-22 21:19:23.141,
+CDT0036,Pengelolahan sampah,Bagaimana cara saya mengelola beberapa sampah anorganik,2024-06-22 21:19:55.055,2024-06-22 21:19:55.055,2024-06-22 21:53:38.386
+CDT0037,12346,12441!@!$,2024-06-22 21:59:11.256,2024-06-22 21:59:11.256,2024-06-22 22:19:39.068
+CDT0038,12346,12441!@!$,2024-06-22 22:00:19.204,2024-06-22 22:00:19.204,2024-06-22 22:19:35.607
+CDT0039,12346,12441!@!$,2024-06-22 22:01:11.340,2024-06-22 22:01:11.340,2024-06-22 22:19:32.357
