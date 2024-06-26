@@ -1,5 +1,5 @@
 # Project Name
-ETL Process and Data Visualization for RecyThing user activity and environmental data
+ETL Pipelines and Data Visualization for RecyThing user activity and environmental data
 
 # About Project
 The RecyThing project focuses on optimizing and visualizing user activity and environmental data through an efficient ETL (Extract, Transform, Load) process. By extracting data from databases, transforming it into a consistent, analyzable format, and loading it into a centralized database, we ensure data accuracy and accessibility. Our goal is to leverage this processed data to create in-depth visualizations that highlight user behavior and environmental data that support sustainable practices and informed decision-making.
@@ -9,7 +9,7 @@ Tools:
 
 - Visual Studio Code
 - Jupyter Notebook
-- Github Desktop
+- Python
 - Github
 - Google Cloud Storage
 - Big Query
@@ -36,7 +36,9 @@ Frameworks:
 [Schema Data Warehouse](https://app.diagrams.net/#G1LylCoUEiQYpQpuj2GeisiBXmiXjsQXTz#%7B%22pageId%22%3A%226ofVpxtqm7AOZWSaK6SD%22%7D)
 
 # Dashboard Visualization
-![image](./dashboard-visualization-de.png)
+![image](./dashboard-visualization-de-1.png)
+![image](./dashboard-visualization-de-2.png)
+![image](./dashboard-visualization-de-3.png)
 [Dashboard Visualization Data Engineer](https://lookerstudio.google.com/reporting/69667802-88f6-47c2-a083-f2b7a5a6febd)
 
 # Setup
